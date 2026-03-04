@@ -1,0 +1,2 @@
+[console_scripts]
+expr = expr_engine.cli:main
