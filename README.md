@@ -4,7 +4,7 @@ A lightweight expression-tree engine for **parsing**, **evaluating**, **simplify
 
 Expr Engine represents expressions using recursive expression trees, a structure widely used in compilers, interpreters, and symbolic math systems.
 
----
+
 
 ## Features
 
@@ -23,7 +23,7 @@ Supported operators:
 /   division
 ```
 
----
+
 
 ## Expression Representation
 
@@ -49,7 +49,7 @@ represents the expression:
 2 * (x + 1)
 ```
 
----
+
 
 ## Example Usage
 
@@ -72,7 +72,7 @@ print(pretty(d))
 # 2
 ```
 
----
+
 
 ## Installation (Development)
 
@@ -94,7 +94,7 @@ Run tests:
 pytest
 ```
 
----
+
 
 ## Command Line Interface
 
@@ -118,7 +118,7 @@ Example output:
 2*x + 3
 ```
 
----
+
 
 ## Project Structure
 
@@ -141,7 +141,7 @@ expr-engine
 └── pyproject.toml
 ```
 
----
+
 
 ## Why This Project Matters
 
@@ -159,7 +159,7 @@ Projects like this demonstrate core concepts such as:
 * parsing
 * symbolic computation
 
----
+
 
 ## Future Improvements
 
@@ -171,7 +171,7 @@ Planned enhancements include:
 * LaTeX export for expressions
 * expanded differentiation support
 
----
+
 
 ## License
 
